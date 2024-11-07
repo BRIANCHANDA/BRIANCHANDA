@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @BRIANCHANDA
-- 👀 I’m interested in ... app development, web development, and any other software development projects
-- 🌱 I’m currently learning ... c++ and python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... desktop app dev, android app development, web application development, and any other software development project
 - 📫 How to reach me ...chandabrian02@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 BRIANCHANDA/BRIANCHANDA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
